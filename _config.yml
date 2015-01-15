@@ -1,10 +1,6 @@
 # Site wide configuration
 
 <<<<<<< HEAD
-title:            Minimal Mistakes
-locale:           en_US
-url:              //mmistakes.github.io/minimal-mistakes
-=======
 title:            "Course Materials: Current Trends in Music Theory"
 locale:           en_US
 url:              /mus613
