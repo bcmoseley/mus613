@@ -1,12 +1,8 @@
 # Site wide configuration
 
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
 title:            "Course Materials: Current Trends in Music Theory"
 locale:           en_US
-url:              
+url:              ""
 
 
 # Jekyll configuration
