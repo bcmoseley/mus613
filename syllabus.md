@@ -6,7 +6,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-Subsequent to the founding of the Society for Music Theory in 1977, American music theory has evolved considerably—transforming itself from a discipline primarily concerned with Schenkerian analysis and pitch-class set theory into one whose practitioners are interested in an incredible variety of theoretical ideas. In this course, we will survey a colleciton these current trends. Through weekly writing assignments, seminar discussion, and individualized research, students will engage critically with the major issues, methodologies, and debates of contemporary music theory.  
+Subsequent to the founding of the Society for Music Theory in 1977, American music theory has evolved considerably—transforming itself from a discipline primarily concerned with "Schenker and sets" into one whose practitioners are interested in an incredible variety of theoretical ideas. In this course, we will survey a colleciton these current trends. Through weekly writing assignments, seminar discussion, and individualized research, students will engage critically with the major issues, methodologies, and debates of contemporary music theory.  
 
 ##Course Website##
 
