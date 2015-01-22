@@ -10,7 +10,7 @@ Subsequent to the founding of the Society for Music Theory in 1977, American mus
 
 ##Course Website##
 
-PDFs of all assigned readings will be available on the [course website](/).
+PDFs of all assigned readings will be available on the [course website](/mus613).
 
 ##Study Groups##
 
