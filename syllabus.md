@@ -2,7 +2,7 @@
 title: Syllabus
 layout: page
 image:
-  feature: sample-image-8.jpg
+  feature: sample-image-7.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
