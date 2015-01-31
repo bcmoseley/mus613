@@ -13,7 +13,7 @@ These are a collection of essays––written by yours truly––that should gi
 
 [Sample Essay 1](files/transformation_essay.pdf)
 <br>
-[Sample Essay 2](files/files/jazz_essay.pdf)
+[Sample Essay 2](files/jazz_essay.pdf)
 
 
 
