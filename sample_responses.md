@@ -11,9 +11,9 @@ These are a collection of essays––written by yours truly––that should gi
 
 <hr>
 
-[Sample Essay 1](files/transformation_essay)
+[Sample Essay 1](http://briancmoseley.com/files/transformation_essay)
 <br>
-[Sample Essay 2](files/jazz_essay)
+[Sample Essay 2](http://briancmoseley.com/files/files/jazz_essay)
 
 
 
